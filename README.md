@@ -9,7 +9,7 @@ Montre sportWare
 
 1. Croquis 
 
-file:///G:/CANON_SC/IMAGE/0001/SCN_0002.jpg
+![alt tag]file:///G:/CANON_SC/IMAGE/0001/SCN_0002.jpg
 
  
 
