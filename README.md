@@ -9,7 +9,7 @@ Montre sportWare
 
 1. Croquis 
 
-Mettre l'image de son croquis
+file:///G:/CANON_SC/IMAGE/0001/SCN_0002.jpg
 
  
 
