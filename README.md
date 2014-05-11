@@ -71,7 +71,7 @@ entrainement, ainsi que diférent entrainement et conseil pouvant être prodigu�
 
 4.1. Cas d'utilisation 
 
-Mettre l'image des cas d'utilisation fabriquer à l'aide de Visual Studio
+![CasDutilisation]http://imageshack.com/a/img838/6465/bttg.jpg
 
  
 
@@ -93,7 +93,7 @@ Mettre l'image du diagramme états-transitions fabriquer à l'aide de Visio avec
 
 4.1. Schéma Gadgeteer et électronique de l'objet 
 
-Insérer l'image obtenu à travers le designer Gadgeteer 
+![Shéma Gadgeeter]http://imageshack.com/a/img838/8634/i231.png
 
 (et si nécessaire le début du schema électronique des modules que vous devrez fabriquer) 
 
