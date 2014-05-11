@@ -101,13 +101,8 @@ Mettre l'image du diagramme états-transitions fabriquer à l'aide de Visio avec
 
 4.2. Liste des éléments à acheter pour le fabriquer 
 
-Liste du matériel avec pour chaque pièce : 
+![Liste élément]http://imageshack.com/a/img843/5728/k5ol.png
 
-*le lien vers le datasheet ou la documentation de chaque élément. 
-
-*le lien vers la pièce sur le site d'un des fournisseurs d'ESILV (voir la liste plus bas) 
-
-*le prix HT et TTC 
 
  
 
