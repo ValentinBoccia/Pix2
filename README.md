@@ -85,7 +85,7 @@ Installer le modèle UML 2.2 dans Visio : http://softwarestencils.com/uml/index.
 
  
 
-Mettre l'image du diagramme états-transitions fabriquer à l'aide de Visio avec le modèle UML 2.2. 
+![Diagramme d'états]http://imageshack.com/a/img836/6780/2t0i.jpg
 
  
 
