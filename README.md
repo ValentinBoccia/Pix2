@@ -55,8 +55,7 @@ afin de mettre l'accent sur certain domaine ou ils sont plus faible ou au contra
 
 2.4. Comment ? 
 
-	C'est une montre que l'on accroche au poignet et qui possède des capteurs afin de controler le poue, la vitesse, les calories utilisés de 
-l'utilisateur (Les capteurs peuvent aussi être exterieurs à la montre mais connecter à cette derniere en wifi) et qui envoie toute ses informations 
+	C'est une montre que l'on accroche au poignet et qui possède des capteurs afin de controler le poue, la vitesse, les calories utilisés de l'utilisateur (Les capteurs peuvent aussi être exterieurs à la montre mais connecter à cette derniere en wifi) et qui envoie toute ses informations 
 sur une application mobille consultable sur internet et aussi et surtout sur moblille et tablette. 
 Formant ainsi une base de données sur chaque utilisateurs possédant la montre. Chaque utilisateurs ont acces à leurs données personelles
 et le proprietaire de l'application à accès à toutes les données de la base de données pouvant ainsi faire un clasement de performance et de 
@@ -85,7 +84,7 @@ Installer le modèle UML 2.2 dans Visio : http://softwarestencils.com/uml/index.
 
  
 
-![Diagramme d'états]http://imageshack.com/a/img836/6780/2t0i.jpg
+![Diagramme d'états](http://nsa34.casimages.com/img/2014/05/13/140513031547165158.jpg)
 
  
 
