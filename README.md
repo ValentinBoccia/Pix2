@@ -84,7 +84,7 @@ Installer le modèle UML 2.2 dans Visio : http://softwarestencils.com/uml/index.
 
  
 
-![Diagramme d'états](http://nsa33.casimages.com/img/2014/05/13/140513032436278400.jpg)
+![Diagramme d'états](http://nsa33.casimages.com/img/2014/05/13/140513032436278400.jpg) 
  
 
 4. Description matériel 
