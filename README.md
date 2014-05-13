@@ -84,15 +84,15 @@ Installer le modèle UML 2.2 dans Visio : http://softwarestencils.com/uml/index.
 
  
 
-![Diagramme d'états](http://nsa34.casimages.com/img/2014/05/13/14051303212269954.png)
-
+![Diagramme d'états](http://nsa33.casimages.com/img/2014/05/13/140513032436278400.jpg)
  
 
 4. Description matériel 
 
 4.1. Schéma Gadgeteer et électronique de l'objet 
 
-![Shéma Gadgeeter]
+![Shéma Gadgeeter](http://nsa34.casimages.com/img/2014/05/13/14051303212269954.png)
+
 
 (et si nécessaire le début du schema électronique des modules que vous devrez fabriquer) 
 
